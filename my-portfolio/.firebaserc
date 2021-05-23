@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "my-portfolio-431fd"
+  },
+  "targets": {
+    "my-portfolio-431fd": {
+      "hosting": {
+        "my-portfolio": [
+          "my-portfolio-431fd"
+        ]
+      }
+    }
+  }
+}
