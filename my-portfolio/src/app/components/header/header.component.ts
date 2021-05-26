@@ -7,9 +7,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HeaderComponent implements OnInit {
 
+  resumeDownloadLink = '#'; // Add download link here
+  githubLink = '#'; // Hardcode github link here
+  twitterlink = '#'; // hardcode
+  linkedinLink = '#'; // hardocode again :)
+
   constructor() { }
 
-  ngOnInit(): void {
-  }
+  ngOnInit() {}
 
 }
